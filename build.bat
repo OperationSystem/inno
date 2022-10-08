@@ -1,5 +1,7 @@
 @echo off
 
+
+
 rem  Inno Setup
 rem  Copyright (C) 1997-2019 Jordan Russell
 rem  Portions by Martijn Laan
